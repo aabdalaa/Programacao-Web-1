@@ -1,0 +1,25 @@
+body{
+    background: radial-gradient(rgb(169, 209, 167), rgb(20, 40, 65), rgb(200, 100, 130));
+    font-family: Verdana;
+    color:rgb(106, 104, 20);
+    text-align: center;
+}
+
+.cor1{
+    font-family: sans-serif;
+    color: red;
+    text-decoration: underline;
+}
+
+.cor2{
+    color:violet;
+}
+
+#cor3{
+    color:gold;
+    text-decoration: underline
+}
+
+#cor4{
+    color:blueviolet
+}
